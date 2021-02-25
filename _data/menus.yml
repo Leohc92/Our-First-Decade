@@ -1,13 +1,13 @@
 - title: home
-  url: /
+  url: {{site.baseurl}}/
   external: false
 
 - title: archive
-  url: /archive/
+  url: {{site.baseurl}}/archive/
   external: false
 
 - title: about
-  url: /about/
+  url: {{site.baseurl}}/about/
   external: false # set true if you using external link, see below
 
 # Example:
