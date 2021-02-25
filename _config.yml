@@ -22,7 +22,7 @@ author:
 
 # URL settings
 url: "https://leohc92.github.io/Our-First-Decade" #
-baseurl: /Our-First-Decade
+baseurl: https://leohc92.github.io/Our-First-Decade
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
