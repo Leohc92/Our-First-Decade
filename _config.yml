@@ -3,7 +3,7 @@ title: Our Love Story # site title
 description: >- # site description
 lang: en-US # default lang
 timezone: Asia/Shanghai # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: /Our-First-Decade/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/Leohc92/Our-First-Decade # site repo [optional]
 mode: light # default theme "dark" | "light"
 
@@ -18,7 +18,7 @@ author:
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: /Our-First-Decade/assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
 url: https://leohc92.github.io #
