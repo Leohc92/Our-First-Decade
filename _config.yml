@@ -1,7 +1,7 @@
 # Site settings
 title: Our Love Story # site title
 description: >- # site description
-lang: en-US # default lang
+lang: zh-cn # default lang
 timezone: Asia/Shanghai # set your timezone
 image: /Our-First-Decade/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/Leohc92/Our-First-Decade # site repo [optional]
@@ -9,16 +9,15 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: 吴辰雨  # author name
+  name: Chenyu & Chloe  # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /Our-First-Decade/assets/img/avatar.jpg # change with your own avatar
+    这个小站记录我们的生活。
+  # username: username # general username
+  github: Leohc92 # github username
+  # twitter: twitter_username # twitter username
+  # facebook: facebook_username # facebook username
+  # email: your-email@email.com # email adress
+  avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
 url: https://leohc92.github.io #
